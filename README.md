@@ -2,7 +2,7 @@
 
 
 
-![](https://www.codeproject.com/Articles/832492/Stage-Introduction-to-the-Internet-of-Things-Wha)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codeproject.com%2FArticles%2F832492%2FStage-Introduction-to-the-Internet-of-Things-Wha&psig=AOvVaw3AqAvHzctD7kF2aDliggRJ&ust=1599068541607000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCfx9fAyOsCFQAAAAAdAAAAABAD)
 
 
 
