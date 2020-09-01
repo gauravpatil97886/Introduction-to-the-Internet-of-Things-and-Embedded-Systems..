@@ -45,7 +45,7 @@ Prompt
 
 Prompt
 
-Describe any privacy issues with the IoT device that never existed in the original version of the device. Compare the price of the original device to the price of the new IoT version of the device. When performing a price comparison, attempt to normalize for the changing value of currency over time by using an online inflation calculator.
+## Describe any privacy issues with the IoT device that never existed in the original version of the device. Compare the price of the original device to the price of the new IoT version of the device. When performing a price comparison, attempt to normalize for the changing value of currency over time by using an online inflation calculator.
 
 ****Issues**:
 
